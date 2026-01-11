@@ -85,19 +85,19 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
 <h3 style="color: #4ECDC4; margin-bottom: 20px;">GitHub Trophies: Achievements Unlocked</h3>
   
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshitapandey&theme=dracula&no-frame=false&column=7&margin-w=15&margin-h=15" alt="Lakshita Pandey GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=dracula&no-frame=false&column=7&margin-w=15&margin-h=15" alt="Lakshita Pandey GitHub Trophies" />
 </p>
 
 <h3 style="color: #FFD700; margin-top: 30px; margin-bottom: 20px;">System Statistics & Log Analysis</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshitapandey&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitapandey&theme=dracula&hide_border=true&background=21262d" alt="Lakshita Pandey GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=dracula&hide_border=true&background=21262d" alt="Lakshita Pandey GitHub Streak" width="48%"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitapandey&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshitapandey&theme=github-dark&hide_border=true&bg_color=21262d&color=FFD700&line=4ECDC4&point=FF6B6B" alt="Activity Graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHITA%20PANDEY&theme=github-dark&hide_border=true&bg_color=21262d&color=FFD700&line=4ECDC4&point=FF6B6B" alt="Activity Graph" width="48%"/>
 </p>
 </div>
 
@@ -123,7 +123,7 @@ Let's connect and build something amazing!
   <br>
   <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 15px;">
     <span style="font-size: 1.2em; color: #4ECDC4;">**[ACCESS COUNT]**</span>
-    <img src="https://komarev.com/ghpvc/?username=lakshitapandey&style=flat-square&color=FF6B6B&label=%20PROFILE%20VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=LAKSHITA%20PANDEY&style=flat-square&color=FF6B6B&label=%20PROFILE%20VIEWS" alt="Profile Views" />
   </div>
 </div>
 
