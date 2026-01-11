@@ -1,40 +1,133 @@
 <div align="center">
-  <h1 style="font-size: 3.5em; color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FF6B6B, 0 0 30px #4ECDC4;">
-    💥 LAKSHITA PANDEY - THE CODE SORCERESS 💥
+  <a href="https://github.com/LAKSHITA PANDEY">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20831627993215.5636dc997097f.gif" width="100%" height="25px" alt="Top Border Glow"/>
+  </a>
+  
+  <h1 style="font-size: 3em; color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; margin: 10px 0;">
+    ⚛️ LAKSHITA PANDEY: CODE ALCHEMIST ⚙️
   </h1>
-  <br>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=320&section=header&text=%F0%9F%92%A5%2520LAKSHITA%2520PANDEY%2520%F0%9F%92%A5&fontSize=70&fontColor=ffffff&animation=twinkling&desc=%F0%9F%9A%80%2520Full-Stack%2520Architect%2520%7C%2520%E2%9A%A1%2520Cloud%2520Nomad%2520%7C%2520%F0%9F%94%A5%2520Code%2520Alchemist&descSize=24&descAlignY=75" alt="Header Wave"/>
   
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=1000&lines=%25F0%259F%2594%25A5+TURNING+COFFEE+INTO+CLOUD-NATIVE+SOLUTIONS;%25E2%259A%25A1%25EF%25B8%258F+BREAKING+AND+REBUILDING+SYSTEMS+DAILY;%25F0%259F%2592%25BB+WHEN+%2560if(debugging)%7B;%25F0%259F%258E%2589+console.log(%2522DIVINE+INTERVENTION%2522)+%7D%2560;%25F0%259F%2594%25A5+404%253A+SLEEP+NOT+FOUND" alt="Typing Mottoes"/>
-  <br>
+  <h2 style="font-size: 1.5em; color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">
+    **FULL-STACK ARCHITECT | BUILDING DIGITAL WORLDS WITH M.E.R.N. & G.O.**
+  </h2>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%2520PANDEY&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=FFD700&icon_color=4ECDC4&text_color=ffffff&border_radius=20&custom_title=%E2%9A%A1%2520GITHUB%2520WARRIOR%2520STATS&card_width=800" alt="GitHub Stats"/>
+  <a href="https://github.com/LAKSHITA PANDEY">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20831627993215.5636dc997097f.gif" width="100%" height="25px" alt="Bottom Border Glow"/>
+  </a>
+  </div>
 
+<h3 align="center">
+  🚀 Full-Stack Web Developer | ⚛️ React & MERN Stack Specialist | 🧠 DSA Grandmaster | ☁️ Cloud Pioneer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=Building+High-Performance+Web+Applications;Engineering+Solutions+with+System+Design;MERN+Stack+%7C+Go+%7C+AWS%2FAzure;The+Goal:+Elegance%2C+Efficiency%2C+Scale." />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+💡 I’m **Lakshita Pandey**, a passionate **Full-Stack Web Developer** committed to building **clean, efficient, and scalable web products**. I thrive on challenges and continuous improvement.
+
+My philosophy revolves around:
+- **Scalability:** Designing systems that can grow with demand.
+- **Maintainability:** Writing high-quality, readable, and efficient code.
+- **Systematic Approach:** Deeply understanding the *how* and *why* behind the architecture.
+
+### 🔥 My Current Focus
+- 🧠 Deep diving into **Data Structures & Algorithms (DSA)** for problem-solving mastery.
+- ⚛️ Developing high-performance **React & MERN stack** applications.
+- ☁️ Exploring **Cloud Infrastructure** (AWS/Azure) and **DevOps** principles (Jenkins, Nginx).
+- 🐍 Expanding backend capabilities with **Go** and **Python** frameworks (Django, FastAPI).
+
+> 💬 *“The only way to do great work is to love what you do.”*
+
+---
+
+## 🛠️ Tech Arsenal
+
+A comprehensive overview of the technologies I work with, ensuring optimal visual impact:
+
+### 🌐 Languages & Core Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</p>
+
+### ⚛️ Frontend & UI/UX
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three%20js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+</p>
+
+### ☁️ Cloud, DevOps & Database
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies & Analytics
+
+Showcasing my commitment to coding and development with striking visuals.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=monokai&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=monokai&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+Let's connect and build something amazing!
+
+| Platform | Link |
+| :--- | :--- |
+| **Email** | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshitapandey18@gmail.com) |
+| **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amaan_Khan1/) |
+
+---
+
+## 🌟 Visitors & Engagement
+
+<div align="center">
+  **Visitor Count:** <img src="https://visitcount.itsvg.in/api?id=LAKSHITA%20PANDEY&icon=0&color=0" alt="Visitor Count"/>
 </div>
 
 ---
 
-## 🌌 COSMIC BIOGRAPHY <span style="color: #4ECDC4;">[Object Deconstruction]</span>
-
-```javascript
-const lakshita = {
-  pronouns: "she" | "her",
-  code: [
-    "JavaScript", "TypeScript", "Go", "Python", 
-    "Java", "C++"
-  ],
-  askMeAbout: [
-    "web dev", "cloud architecture", 
-    "system design", "scalability"
-  ],
-  architecture: [
-    "Serverless", "Microservices", 
-    "Event-Driven", "MERN"
-  ],
-  currentFocus: "Building quantum-resistant cloud infrastructure",
-  funFact: "Can debug production issues while sleepwalking",
-  motto: "First make it work, then make it fast, then make it beautiful",
-  quote: "The computer was born to solve problems that did not exist before."
-};
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=footer"/>
+</p>
