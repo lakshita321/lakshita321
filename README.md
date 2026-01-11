@@ -1,20 +1,6 @@
 <div align="center">
-  <a href="https://github.com/LAKSHITA PANDEY">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20831627993215.5636dc997097f.gif" width="100%" height="25px" alt="Top Border Glow"/>
-  </a>
-  
-  <h1 style="font-size: 3em; color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; margin: 10px 0;">
-    ⚛️ LAKSHITA PANDEY: CODE ALCHEMIST ⚙️
-  </h1>
-  
-  <h2 style="font-size: 1.5em; color: #00FFFF; text-shadow: 0 0 5px #00FFFF;">
-    **FULL-STACK ARCHITECT | BUILDING DIGITAL WORLDS WITH M.E.R.N. & G.O.**
-  </h2>
-  
-  <a href="https://github.com/LAKSHITA PANDEY">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/20831627993215.5636dc997097f.gif" width="100%" height="25px" alt="Bottom Border Glow"/>
-  </a>
-  </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=⚡%20LAKSHITA%20PANDEY%20⚡&fontSize=75&fontColor=FFD700&animation=smooth&desc=Full-Stack%20Engineer%20|%20Cloud%20Architect%20in%20Training" style="width: 100%;"/>
+</div>
 
 <h3 align="center">
   🚀 Full-Stack Web Developer | ⚛️ React & MERN Stack Specialist | 🧠 DSA Grandmaster | ☁️ Cloud Pioneer
@@ -90,7 +76,7 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
 
 ## 🏆 GitHub Trophies & Analytics
 
-Showcasing my commitment to coding and development with striking visuals.
+Showcasing my commitment to coding and development with striking visuals. *If these fail to load, please ensure your GitHub profile name is exactly `LAKSHITA PANDEY` and try another theme like `darkhub`.*
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=monokai&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
