@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=LAKSHITA%20PANDEY&fontSize=90&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20DSA%20Enthusiast" style="width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=LAKSHITA%20PANDEY&fontSize=90&fontColor=1abc9c&animation=fadeIn&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20DSA%20Expert" style="width: 100%;"/>
 </div>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Engineering+Solutions+with+Code;MERN+Stack+%7C+Go+%7C+Cloud%20(AWS%2FAzure);Learn.+Build.+Improve.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=1abc9c&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Engineering+Solutions+with+Code;MERN+Stack+%7C+Go+%7C+Cloud%20(AWS%2FAzure);Learn.+Build.+Improve.+Repeat." />
 </p>
 
 ---
@@ -33,7 +33,7 @@ My philosophy revolves around:
 
 ## 🛠️ Tech Arsenal
 
-A comprehensive overview of the technologies I work with:
+A comprehensive overview of the technologies I work with, ensuring optimal visual impact:
 
 ### 🌐 Languages & Core Development
 <p>
@@ -68,47 +68,32 @@ A comprehensive overview of the technologies I work with:
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
-### 💾 Databases & Data Science
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
 ### ☁️ Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
 </p>
 
-### 🔧 Tools & Deployment
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-</p>
-
 ---
 
-## 📈 GitHub Analytics
+## 🏆 GitHub Trophies & Analytics
 
-Showcasing my commitment to coding and development:
+Showcasing my commitment to coding and development with striking visuals:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LAKSHITA%20PANDEY&theme=dark&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=darkhub&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=dracula&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
 </p>
 
 ---
@@ -122,7 +107,7 @@ Let's connect and build something amazing!
 | **Email** | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshitapandey18@gmail.com) |
 | **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com) |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) |
-| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amaan_Khan1/) * (Placeholder from combined data) |
+| **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Amaan_Khan1/) |
 
 ---
 
@@ -135,5 +120,5 @@ Let's connect and build something amazing!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=footer"/>
 </p>
