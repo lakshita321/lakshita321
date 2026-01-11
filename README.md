@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=LAKSHITA%20PANDEY&fontSize=90&fontColor=1abc9c&animation=fadeIn&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20DSA%20Expert" style="width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=⚡%20LAKSHITA%20PANDEY%20⚡&fontSize=75&fontColor=FFD700&animation=smooth&desc=Full-Stack%20Engineer%20|%20Cloud%20Architect%20in%20Training" style="width: 100%;"/>
 </div>
 
 <h3 align="center">
-  🚀 Full-Stack Web Developer | ⚛️ React & MERN Stack Specialist | 🧠 DSA Explorer | 💡 Perpetual Learner
+  🚀 Full-Stack Web Developer | ⚛️ React & MERN Stack Specialist | 🧠 DSA Grandmaster | ☁️ Cloud Pioneer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=1abc9c&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Engineering+Solutions+with+Code;MERN+Stack+%7C+Go+%7C+Cloud%20(AWS%2FAzure);Learn.+Build.+Improve.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=Building+High-Performance+Web+Applications;Engineering+Solutions+with+System+Design;MERN+Stack+%7C+Go+%7C+AWS%2FAzure;The+Goal:+Elegance%2C+Efficiency%2C+Scale." />
 </p>
 
 ---
@@ -42,17 +42,13 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### ⚛️ Frontend & UI/UX
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular.js-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three%20js-black?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
@@ -62,38 +58,37 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud, DevOps & Database
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies & Analytics
 
-Showcasing my commitment to coding and development with striking visuals:
+Showcasing my commitment to coding and development with striking visuals. *If these fail to load, please ensure your GitHub profile name is exactly `LAKSHITA PANDEY` and try another theme like `darkhub`.*
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=darkhub&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=monokai&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=dracula&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=monokai&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
 </p>
 
 ---
