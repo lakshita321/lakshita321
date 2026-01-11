@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=⚡%20LAKSHITA%20PANDEY%20⚡&fontSize=75&fontColor=FFD700&animation=smooth&desc=Full-Stack%20Engineer%20|%20Cloud%20Architect%20in%20Training" style="width: 100%;"/>
+  <h1 style="font-size: 3.5em; color: #FF6B6B; text-shadow: 0 0 10px #FF6B6B, 0 0 20px #FFD700; margin-top: 20px;">
+    ⚡ LAKSHITA PANDEY: CODE ALCHEMIST ⚡
+  </h1>
+  
+  <h3 style="color: #4ECDC4; text-shadow: 0 0 5px #4ECDC4;">
+    [SYSTEM ONLINE] FULL-STACK ARCHITECT | CLOUD PIONEER | DATA SORCERESS
+  </h3>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=700&color=FFD700&center=true&vCenter=true&width=780&lines=Building+High-Performance+Web+Applications;Engineering+Solutions+with+System+Design;MERN+Stack+%7C+Go+%7C+AWS%2FAzure;The+Goal%3A+Elegance%2C+Efficiency%2C+Scale." alt="Typing Mottoes"/>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:4ECDC4,100:FF6B6B&height=150&section=footer" alt="Header Separator"/>
 </div>
-
-<h3 align="center">
-  🚀 Full-Stack Web Developer | ⚛️ React & MERN Stack Specialist | 🧠 DSA Grandmaster | ☁️ Cloud Pioneer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=900&color=FFD700&center=true&vCenter=true&width=750&lines=Building+High-Performance+Web+Applications;Engineering+Solutions+with+System+Design;MERN+Stack+%7C+Go+%7C+AWS%2FAzure;The+Goal:+Elegance%2C+Efficiency%2C+Scale." />
-</p>
 
 ---
 
@@ -74,22 +78,28 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
 
 ---
 
-## 🏆 GitHub Trophies & Analytics
+<div align="center" style="border: 3px solid #FFD700; padding: 20px; border-radius: 15px; background: #161b22;">
 
-Showcasing my commitment to coding and development with striking visuals. *If these fail to load, please ensure your GitHub profile name is exactly `LAKSHITA PANDEY` and try another theme like `darkhub`.*
+## 🏆 CODE SORCERESS DASHBOARD [LIVE FEED]
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=monokai&no-frame=true&rank=SSS,SS,S,AAA,AA,A" alt="Lakshita Pandey GitHub Trophies" />
+<h3 style="color: #4ECDC4; margin-bottom: 20px;">GitHub Trophies: Achievements Unlocked</h3>
+  
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=dracula&no-frame=false&column=7&margin-w=15&margin-h=15" alt="Lakshita Pandey GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey GitHub Stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=monokai&hide_border=true" alt="Lakshita Pandey GitHub Streak" width="420"/>
+<h3 style="color: #FFD700; margin-top: 30px; margin-bottom: 20px;">System Statistics & Log Analysis</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=dracula&hide_border=true&background=21262d" alt="Lakshita Pandey GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=monokai&hide_border=true&include_all_commits=true&count_private=true" alt="Lakshita Pandey Top Languages" width="420"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHITA%20PANDEY&theme=github-dark&hide_border=true&bg_color=21262d&color=FFD700&line=4ECDC4&point=FF6B6B" alt="Activity Graph" width="48%"/>
 </p>
+</div>
 
 ---
 
@@ -106,14 +116,19 @@ Let's connect and build something amazing!
 
 ---
 
-## 🌟 Visitors & Engagement
-
-<div align="center">
-  **Visitor Count:** <img src="https://visitcount.itsvg.in/api?id=LAKSHITA%20PANDEY&icon=0&color=0" alt="Visitor Count"/>
+<div align="center" style="margin-top: 40px; border: 3px dashed #FF6B6B; padding: 15px; border-radius: 10px; background: #0d1117;">
+  <span style="font-size: 1.5em; color: #FFD700; text-shadow: 0 0 10px #FFD700;">
+    🌟 DATA TRANSFER LOG 🌟
+  </span>
+  <br>
+  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 15px;">
+    <span style="font-size: 1.2em; color: #4ECDC4;">**[ACCESS COUNT]**</span>
+    <img src="https://komarev.com/ghpvc/?username=LAKSHITA%20PANDEY&style=flat-square&color=FF6B6B&label=%20PROFILE%20VIEWS" alt="Profile Views" />
+  </div>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=110&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:4ECDC4,100:FF6B6B&height=110&section=footer"/>
 </p>
