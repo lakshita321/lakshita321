@@ -78,26 +78,26 @@ A comprehensive overview of the technologies I work with, ensuring optimal visua
 
 ---
 
-<div align="center" style="border: 3px solid #FFD700; padding: 20px; border-radius: 15px; background: #161b22;">
+<div align="center" style="border: 4px double #FF6B6B; padding: 25px; border-radius: 18px; background: #0d1117;">
 
-## 🏆 CODE SORCERESS DASHBOARD [LIVE FEED]
+## 🚀 CYBERNETIC PERFORMANCE MATRIX [SYSTEM READOUT]
 
-<h3 style="color: #4ECDC4; margin-bottom: 20px;">GitHub Trophies: Achievements Unlocked</h3>
+<h3 style="color: #FFD700; text-shadow: 0 0 5px #FFD700; margin-bottom: 25px;">[DEBUGGING]: Trophy Case Integrity Check Passed</h3>
   
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=LAKSHITA%20PANDEY&theme=dracula&no-frame=false&column=7&margin-w=15&margin-h=15" alt="Lakshita Pandey GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshitapandey&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=10" alt="Lakshita Pandey GitHub Trophies" />
 </p>
 
-<h3 style="color: #FFD700; margin-top: 30px; margin-bottom: 20px;">System Statistics & Log Analysis</h3>
+<h3 style="color: #4ECDC4; margin-top: 35px; margin-bottom: 25px;">[STATUS]: Code Velocity & Language Distribution</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LAKSHITA%20PANDEY&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LAKSHITA%20PANDEY&theme=dracula&hide_border=true&background=21262d" alt="Lakshita Pandey GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshitapandey&show_icons=true&theme=midnight&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22" alt="Lakshita Pandey GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitapandey&theme=midnight&hide_border=true&background=161b22&ring=FFD700&fire=FF6B6B" alt="Lakshita Pandey GitHub Streak" width="48%"/>
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAKSHITA%20PANDEY&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&bg_color=21262d" alt="Lakshita Pandey Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LAKSHITA%20PANDEY&theme=github-dark&hide_border=true&bg_color=21262d&color=FFD700&line=4ECDC4&point=FF6B6B" alt="Activity Graph" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitapandey&layout=compact&theme=midnight&hide_border=true&include_all_commits=true&count_private=true&bg_color=161b22" alt="Lakshita Pandey Top Languages" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshitapandey&theme=github-dark&hide_border=true&bg_color=161b22&color=FFD700&line=4ECDC4&point=FF6B6B" alt="Activity Graph" width="48%"/>
 </p>
 </div>
 
@@ -116,15 +116,17 @@ Let's connect and build something amazing!
 
 ---
 
-<div align="center" style="margin-top: 40px; border: 3px dashed #FF6B6B; padding: 15px; border-radius: 10px; background: #0d1117;">
-  <span style="font-size: 1.5em; color: #FFD700; text-shadow: 0 0 10px #FFD700;">
-    🌟 DATA TRANSFER LOG 🌟
+<div align="center" style="margin-top: 40px; border: 3px dashed #FFD700; padding: 15px; border-radius: 10px; background: #0d1117;">
+  <span style="font-size: 1.5em; color: #4ECDC4; text-shadow: 0 0 10px #4ECDC4;">
+    ✨ CORE PRINCIPLE INJECTED ✨
   </span>
   <br>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 15px;">
-    <span style="font-size: 1.2em; color: #4ECDC4;">**[ACCESS COUNT]**</span>
-    <img src="https://komarev.com/ghpvc/?username=LAKSHITA%20PANDEY&style=flat-square&color=FF6B6B&label=%20PROFILE%20VIEWS" alt="Profile Views" />
-  </div>
+  <blockquote style="font-size: 1.2em; color: #FF6B6B; margin-top: 10px; margin-bottom: 0;">
+    "With great power (the ability to code) comes great responsibility (to debug)."
+  </blockquote>
+  <span style="font-size: 0.9em; color: #FFD700; display: block; margin-top: 5px;">
+    — Code Philosopher
+  </span>
 </div>
 
 ---
